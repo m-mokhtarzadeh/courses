@@ -31,5 +31,8 @@ EOF
 ### VMware Workstation Download Link
 https://s3.ir-thr-at1.arvanstorage.ir/astek-packages/VMware-workstation-full-17.6.0-24238078.exe   
 
-### 
+### Ubuntu Server ISO
+https://ubuntu.pishgaman.net/releases/24.04/ubuntu-24.04.1-live-server-amd64.iso
+
+### Openstack Installation
 https://s3.ir-thr-at1.arvanstorage.ir/astek-packages/Openstack.zip
